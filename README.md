@@ -23,3 +23,7 @@ But at the cost of severely increasing training time just to improve on a couple
 
 Finally, scaling any tensorflow, keras, or pythorch model with BigDL seems very straight forward and should help tremendously to train 
 this type of models on computer clusters.
+
+# Authors
+- Juan Martín Menor de Gaspar
+- Álvaro Mellado Ibáñez
